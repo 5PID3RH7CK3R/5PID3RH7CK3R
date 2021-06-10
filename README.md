@@ -48,13 +48,17 @@ In my definition, a Jack of All Traits means -
 ⠀⠀⠀⠀1) [Penetration Testing] (for the past few months)
 
 ### I use :
-1. Text Editors   
-<img align= "left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align= "bottom" alt="Nano" width="50px" src="https://www.saashub.com/images/app/service_logos/7/349d07650119/large.png?1527364998"/> <img align= "bottom" alt="Sublime Text" width="50px" src="https://s3.amazonaws.com/yonnetti-sublime/gravity/icons/sublimetext-3-orange.png" />
+#### **Text Editors**     
+<img align= "left" alt="Visual Studio Code" width="70px" src="images/visual-studio-code.png" />
+<img align= "left" alt="Nano" width="70px" src="images/nano.webp" />
+<img align= "left" alt="Sublime Text" width="70px" src="images/subl.png" />            
 
-2. Terminal Environments : 
-<img align="center" alt="Bash" width="50px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
-<img align="right" alt="Terminator" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gnome-Terminator.svg/1200px-Gnome-Terminator.svg.png"/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
+#### Preferred OS'es
+<img align= "left" alt="Debain" width="70px" src="images/debian.png" />
 
 
 
