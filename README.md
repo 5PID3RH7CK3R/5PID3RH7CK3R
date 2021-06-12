@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Hi Guys!! 👋 
 
-### My personal [Website]
-I just started work on it very recently. And plus, I'm learning web dev as I build it. Soo, for this reason, it isn't the prettiest and quickest thing in the world 😅
+### More Information on my personal [Website]! 
+I just started work on it very recently. And plus, I'm learning Web Development side by side. Soo, for this reason, it isn't the prettiest and quickest thing in the world 😅
 
 Other than _**This**_, all of my other Repositories are private.
 
