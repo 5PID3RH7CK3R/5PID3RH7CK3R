@@ -51,7 +51,7 @@ In my definition, a Jack of All Traits means -
 
 | Python                                                     	| Bash Scripting                                           	|   	|   	|   	|
 |------------------------------------------------------------	|----------------------------------------------------------	|---	|---	|---	|
-| <img align= "left" width="70px" src="images/python.png" /> 	| <img align= "left" width="70px" src="images/bash.png" /> 	|   	|   	|   	|
+| <img align= "center" width="70px" src="images/python.png" /> 	| <img align= "center" width="70px" src="images/bash script.png" /> 	|   	|   	|   	|
 
 
 
@@ -78,7 +78,9 @@ In my definition, a Jack of All Traits means -
 
 #### Languages 
 <img align= "left" width="70px" src="images/python.png" />  
-<img align= "left" width="70px" src="images/bash.png" /> 
+<img align= "left" width="70px" src="images/bash.png" />
+<img align= "left" width="70px" src="images/c-programming-569564.webp" /> 
+<img align= "left" width="70px" src="images/node-js-1-1174935.webp" />
 
 
 [website]: https://5pid3rh7ck3rs-website.5pid3rh7ck3r.repl.co/
