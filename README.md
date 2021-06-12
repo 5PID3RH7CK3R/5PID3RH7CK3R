@@ -48,21 +48,28 @@ In my definition, a Jack of All Traits means -
 ⠀⠀⠀⠀1) [Penetration Testing] (for the past few months)
 
 ### I use :
-#### **Text Editors**     
+#### **Text Editors and Shell Environments**     
 <img align= "left" alt="Visual Studio Code" width="70px" src="images/visual-studio-code.png" />
 <img align= "left" alt="Nano" width="70px" src="images/nano.webp" />
 <img align= "left" alt="Sublime Text" width="70px" src="images/subl.png" />            
 
 <br/><br/>
 <br/><br/>
-<br/><br/>
 
 #### Preferred OS'es
-<img align= "left" alt="Debain" width="70px" src="images/debian.png" />
+<img align= "left" alt="Debain" height="70px" src="images/debian.png" />
+<img align= "left" alt="kali" width="110px" src="images/kali.png" />
+<img align= "left" alt="parrot" width="70px" src="images/parrot.png" />
+<img align= "left" alt="raspberrypi" width="110px" src="images/raspberrypi.png" />
+<img align= "left" alt="android" width="110px" src="images/android.png" />
+<img align= "left" alt="tails" width="90px" src="images/tails.png" />
 
+<br/><br/>
+<br/><br/>
 
-
-
+#### Languages 
+<img align= "left" width="70px" src="images/python.png" />  
+<img align= "left" width="70px" src="images/bash.png" /> 
 
 
 [website]: https://5pid3rh7ck3rs-website.5pid3rh7ck3r.repl.co/
