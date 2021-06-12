@@ -23,13 +23,6 @@ I just started work on it very recently. And plus, I'm learning web dev as I bui
 
 Anyhow...
 
-### Im a jack of all traits!
-Or at least on the path towards it
-
-In my definition, a Jack of All Traits means - 
-1) Web Developer
-2) 
-
  ##  **I know** :
 |  Python 3 	|   Bash Scripting  	|   Visual Basic 6	|    Java Script (Node.js)   	|   C   	|    VBA (excel and other spreadsheet applications) 	|
 |:------------------------------------------------------------:	|:-----------------------------------------------------------------:	|:-------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------:	|
@@ -55,7 +48,7 @@ In my definition, a Jack of All Traits means -
 |      FOSS!! And also, I just love the extensions and customisability     	| When working on a relatively small file and don't want an entire environment to do so  	| When it comes down to picking a terminal based text editor, I'm a simple guy and thus, I would any-day pick nano over the others. Don't come at me though 😂 	|
 | <img align= "center" width="70px" src="images/visual-studio-code.png" /> 	|               <img align= "center" width="70px" src="images/subl.png" />               	|                                                 <img align= "center" width="70px" src="images/nano.webp" />                                                 	|       
 
-### **Preferred OS'es** :
+## **Preferred OS'es** :
 |                                      Debain Raw                                      	|                                     Kali Linux                                     	|                                      Parrot OS                                      	|                                        TAILS                                       	|                                      Raspberry Pi OS                                      	|                                        Android                                        	|
 |:------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
 | <p align="center" ><img align= "center" height="70px" src="images/debian.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/kali.png" /></p> 	| <p align="center" ><img align= "center" width="70px" src="images/parrot.png" /></p> 	| <p align="center" ><img align= "center" width="90px" src="images/tails.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/raspberrypi.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/android.png" /></p> 	|
@@ -63,6 +56,3 @@ In my definition, a Jack of All Traits means -
 
 [website]: https://5pid3rh7ck3rs-website.5pid3rh7ck3r.repl.co/
 [Try Hack Me]: https://www.tryhackme.com/p/5PID3RH7CK3R
-
-
-<!-- https://external-preview.redd.it/V77U-n3OuvNr2I14hRYUcyXBJ1C9dEMV3HUt3dAIViw.png?auto=webp&s=20d05cf394bd203741ddfdffa904af94fdd90544 -->
