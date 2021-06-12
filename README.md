@@ -34,7 +34,7 @@ In my definition, a Jack of All Traits means -
 |                            Python                            	|                           Bash Scripting                          	|                                  Visual Basic 6                                 	|                                          Java Script (Node.js)                                         	|                                     C                                     	|                                     VBA (excel and other spreadsheet applications)                                     	|
 |:------------------------------------------------------------:	|:-----------------------------------------------------------------:	|:-------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------:	|
 |        Throughly Comfortable and Frequently code in it       	|      Throughly comfortable and Frequently use it, obviously.      	|      Evergreen and my go-to if i have to make a standalone gui application      	| Not as comfortable compared to python, but yeah, I still do code minor stand-alone projects from time  	|      Only whatever was taught at school level<br>I do not code in C       	| I know just the very basic and have not come across a need to code in it yet, other than a school project a while ago. 	|
-| <img align= "center" width="70px" src="images/python.png" /> 	| <img align= "center" width="70px" src="images/bash script.png" /> 	| <img align= "center" width="70px" src="images/210px-Visual_Basic_6.0_logo.png" /> 	|                 <img align= "center" width="70px" src="images/node-js-1-1174935.webp" />                 	| <img align= "center" width="70px" src="images/c-programming-569564.webp" /> 	|                             <img align= "center" width="70px" src="images/vba excel.png " />                             	|
+| <img align= "center" width="70px" src="images/python.png" /> 	| <img align= "center" width="70px" src="images/bash script.png" /> 	| <img align= "center" width="100px" src="images/visualbasic.png" /> 	|                 <img align= "center" width="70px" src="images/node-js-1-1174935.webp" />                 	| <img align= "center" width="70px" src="images/c-programming-569564.webp" /> 	|                             <img align= "center" width="70px" src="images/vba excel.png " />                             	|
 
  ### I am learning  
 ⠀⠀⠀⠀1) SQL   
@@ -73,6 +73,8 @@ In my definition, a Jack of All Traits means -
 <img align= "left" width="70px" src="images/c-programming-569564.webp" /> 
 <img align= "left" width="70px" src="images/node-js-1-1174935.webp" />
 <img align= "left" width="70px" src="images/vba excel.png " />
+<img align= "center" width="130px" src="images/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png " />
+<img align= "center" width="70px" src="images/sql.png" />
 
 
 [website]: https://5pid3rh7ck3rs-website.5pid3rh7ck3r.repl.co/
