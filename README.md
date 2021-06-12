@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ### My personal [Website]
 I just started work on it very recently. And plus, I'm learning web dev as I build it. Soo, for this reason, it isn't the prettiest and quickest thing in the world 😅
 
-Anyhow...
+Other than _**This**_, all of my other Repositories are private.
 
  ##  **I know** :
 |  Python 3 	|   Bash Scripting  	|   Visual Basic 6	|    Java Script (Node.js)   	|   C   	|    VBA (excel and other spreadsheet applications) 	|
 |:------------------------------------------------------------:	|:-----------------------------------------------------------------:	|:-------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------:	|
-|        Throughly Comfortable and Frequently code in it       	|      Throughly comfortable and Frequently use it, obviously.      	|      Evergreen and my go-to if i have to make a standalone gui application      	| Not as comfortable compared to python, but yeah, I still do code minor stand-alone projects from time  	|      Only whatever was taught at school level<br>I do not code in C       	| I know just the very basic and have not come across a need to code in it yet, other than a school project a while ago. 	|
+|        Thoroughly Comfortable and Frequently code in it       	|      Thoroughly comfortable and Frequently use it, obviously.      	|      Evergreen and my go-to if i have to make a standalone gui application      	| Not as comfortable compared to python, but yeah, I still do code minor stand-alone projects from time  	|      Only whatever was taught at school level<br>I do not code in C       	| I know just the very basic and have not come across a need to code in it yet, other than a school project a while ago. 	|
 | <img align= "center" width="70px" src="images/python.png" /> 	| <img align= "center" width="70px" src="images/bash script.png" /> 	| <img align= "center" width="100px" src="images/visualbasic.png" /> 	|                 <img align= "center" width="70px" src="images/node-js-1-1174935.webp" />                 	| <img align= "center" width="70px" src="images/c-programming-569564.webp" /> 	|                             <img align= "center" width="70px" src="images/vba excel.png " />                             	|
 
  ## **I am learning** :
@@ -45,7 +45,7 @@ Anyhow...
    
 |  Visual Studio Code  	|   Sublime text  	|  Nano     	|
 |:------------------------------------------------------------------------:	|:------------------:	|:---------------------------------------------------------------------------:	|
-|      FOSS!! And also, I just love the extensions and customisability     	| When working on a relatively small file and don't want an entire environment to do so  	| When it comes down to picking a terminal based text editor, I'm a simple guy and thus, I would any-day pick nano over the others. Don't come at me though 😂 	|
+|      FOSS!! And also, I just love the extensions and customizability     	| When working on a relatively small file and don't want an entire environment to do so  	| When it comes down to picking a terminal based text editor, I'm a simple guy and thus, I would any-day pick nano over the others. Don't come at me though 😂 	|
 | <img align= "center" width="70px" src="images/visual-studio-code.png" /> 	|               <img align= "center" width="70px" src="images/subl.png" />               	|                                                 <img align= "center" width="70px" src="images/nano.webp" />                                                 	|       
 
 ## **Preferred OS'es** :
