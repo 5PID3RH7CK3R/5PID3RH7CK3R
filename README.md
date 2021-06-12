@@ -67,15 +67,10 @@ In my definition, a Jack of All Traits means -
 <br/><br/>
 
 #### Languages 
-<img align= "left" width="70px" src="images/python.png" />  
-<img align= "left" width="70px" src="images/bash.png" />
-<img align= "left" width="70px" src="images/c-programming-569564.webp" /> 
-<img align= "left" width="70px" src="images/node-js-1-1174935.webp" />
-<img align= "left" width="70px" src="images/vba excel.png " />
-<img align= "center" width="130px" src="images/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png " />
-<img align= "center" width="70px" src="images/sql.png" />
 
-<img align= "center" width="110px" src="images/THMlogo.png" />
+<img align= "center" width="100px" src="images/zsh.png" />
+<img align= "center" width="70px" src="images/terminator.png" />
+
 
 [website]: https://5pid3rh7ck3rs-website.5pid3rh7ck3r.repl.co/
 [Try Hack Me]: https://www.tryhackme.com/p/5PID3RH7CK3R
