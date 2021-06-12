@@ -55,21 +55,10 @@ In my definition, a Jack of All Traits means -
 |      FOSS!! And also, I just love the extensions and customisability     	| When working on a relatively small file and don't want an entire environment to do so  	| When it comes down to picking a terminal based text editor, I'm a simple guy and thus, I would any-day pick nano over the others. Don't come at me though 😂 	|
 | <img align= "center" width="70px" src="images/visual-studio-code.png" /> 	|               <img align= "center" width="70px" src="images/subl.png" />               	|                                                 <img align= "center" width="70px" src="images/nano.webp" />                                                 	|       
 
-### **How I like my shells** :
-<img align= "left" alt="Debain" height="70px" src="images/debian.png" />
-<img align= "left" alt="kali" width="110px" src="images/kali.png" />
-<img align= "left" alt="parrot" width="70px" src="images/parrot.png" />
-<img align= "left" alt="raspberrypi" width="110px" src="images/raspberrypi.png" />
-<img align= "left" alt="android" width="110px" src="images/android.png" />
-<img align= "left" alt="tails" width="90px" src="images/tails.png" />
-
-<br/><br/>
-<br/><br/>
-
-#### Languages 
-
-<img align= "center" width="100px" src="images/zsh.png" />
-<img align= "center" width="70px" src="images/terminator.png" />
+### **Preferred OS'es** :
+|                                      Debain Raw                                      	|                                     Kali Linux                                     	|                                      Parrot OS                                      	|                                        TAILS                                       	|                                      Raspberry Pi OS                                      	|                                        Android                                        	|
+|:------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
+| <p align="center" ><img align= "center" height="70px" src="images/debian.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/kali.png" /></p> 	| <p align="center" ><img align= "center" width="70px" src="images/parrot.png" /></p> 	| <p align="center" ><img align= "center" width="90px" src="images/tails.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/raspberrypi.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/android.png" /></p> 	|
 
 
 [website]: https://5pid3rh7ck3rs-website.5pid3rh7ck3r.repl.co/
