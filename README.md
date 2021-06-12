@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi Guys!! 👋
+# Hi Guys!! 👋 
 
 ### My personal [Website]
 I just started work on it very recently. And plus, I'm learning web dev as I build it. Soo, for this reason, it isn't the prettiest and quickest thing in the world 😅
 
 Anyhow...
-
-
 
 ### Im a jack of all traits!
 Or at least on the path towards it
@@ -46,6 +44,17 @@ In my definition, a Jack of All Traits means -
 
  ### I have been learning  
 ⠀⠀⠀⠀1) [Penetration Testing] (for the past few months)
+
+
+
+### I know :
+
+| Python                                                     	| Bash Scripting                                           	|   	|   	|   	|
+|------------------------------------------------------------	|----------------------------------------------------------	|---	|---	|---	|
+| <img align= "left" width="70px" src="images/python.png" /> 	| <img align= "left" width="70px" src="images/bash.png" /> 	|   	|   	|   	|
+
+
+
 
 ### I use :
 #### **Text Editors and Shell Environments**     
