@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### More Information on my personal [Website]! 
 I just started work on it very recently. And plus, I'm learning Web Development side by side. Soo, for this reason, it isn't the prettiest and quickest thing in the world 😅
 
-### At the moment, **Most** of my repositories are **private**
+### At the moment, **Most** of my repositories are **private**. I'm gradually changing that.
 
  ##  **I know** :
 |  Python 3 	|   Bash Scripting  	|   Visual Basic 6	|    Java Script (Node.js)   	|   C   	|    VBA (excel and other spreadsheet applications) 	|
