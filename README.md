@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### More Information on my personal [Website]! 
-I just started work on it very recently. And plus, I'm learning Web Development side by side. Soo, for this reason, it isn't the prettiest and quickest thing in the world 😅
+#### I just started work on it very recently. And plus, I'm learning Web Development side by side. Soo, for this reason, it is neither the prettiest nor the quickest thing in the world 😅
 
 ### At the moment, **Most** of my repositories are **private**. I'm gradually changing that.
 
