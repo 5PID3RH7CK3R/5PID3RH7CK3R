@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 5PID3RH7CK3R@root \#
+# 5PID3RH7CK3R@root \# whoami
 
 
 ### More Information on my personal [Website]! 
