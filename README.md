@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 5PID3RH7CK3R@root \# whoami
+# 5PID3RH7CK3R@MACH1N3:~$ autohacker.py
+
 
 
 ### More Information on my personal [Website]! 
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 | <img align= "center" width="70px" src="images/visual-studio-code.png" /> 	|               <img align= "center" width="70px" src="images/subl.png" />               	|                                                 <img align= "center" width="70px" src="images/nano.webp" />                                                 	|       
 
 ## **Preferred OS'es** :
-|                                      Debain Raw                                      	|                                     Kali Linux                                     	|                                      Parrot OS                                      	|                                        TAILS                                       	|                                      Raspberry Pi OS                                      	|                                        Android                                        	|
+|                                      Debain                                      	|                                     Kali Linux                                     	|                                      Parrot OS                                      	|                                        TAILS                                       	|                                      Raspberry Pi OS                                      	|                                        Android                                        	|
 |:------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|
 | <p align="center" ><img align= "center" height="70px" src="images/debian.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/kali.png" /></p> 	| <p align="center" ><img align= "center" width="70px" src="images/parrot.png" /></p> 	| <p align="center" ><img align= "center" width="90px" src="images/tails.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/raspberrypi.png" /></p> 	| <p align="center" ><img align= "center" width="110px" src="images/android.png" /></p> 	|
 
